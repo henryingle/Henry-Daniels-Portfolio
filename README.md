@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Henry Daniels
+### Junior Data Analyst
 
 You can use the [editor on GitHub](https://github.com/henryingle/Henry_Daniels_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
